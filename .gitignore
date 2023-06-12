@@ -1,0 +1,6 @@
+# IntelliJ stuff
+.idea/
+
+# Build file
+caronte/caronte
+coverage.txt
