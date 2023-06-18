@@ -1,5 +1,21 @@
 # Caronte
 
+<!--
+#field
+CTF
+
+#groups
+Tool
+
+#languages
+Go
+JavaScript
+
+#frames and libs
+React
+
+-->
+
 A slightly customized version of caronte
 
 # `caronte$`
