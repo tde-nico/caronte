@@ -2,10 +2,12 @@
 
 # EDIT with "Port Service"
 services=(
-	"443 MOOZ"
-	"18080 biomarkt"
-	"1337 cc_market"
-	"8000 crashair"
+	"5000 CheesyCheats_manager"
+	"5555 CheesyCheats_api"
+	"8000 GabibbiTowers_back"
+	"3001 GabibbiTowers_front"
+	"3000 gadgethorse"
+	"9999 MineCClicker"
 )
 
 
