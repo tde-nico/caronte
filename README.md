@@ -1,3 +1,24 @@
+# Caronte
+
+<!--
+#field
+CTF
+
+#groups
+Tool
+
+#languages
+Go
+JavaScript
+
+#frames and libs
+React
+
+-->
+
+A slightly customized version of caronte
+
+
 # `caronte$`
 
 [![Test Status](https://github.com/eciavatta/caronte/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/eciavatta/caronte/actions/workflows/test.yml)
